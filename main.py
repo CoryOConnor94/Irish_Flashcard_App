@@ -69,3 +69,4 @@ unknown_word_label.grid(column=0, row=2)
 next_card()
 
 window.mainloop()
+
