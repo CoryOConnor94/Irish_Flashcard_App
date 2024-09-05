@@ -11,12 +11,12 @@ FRONT_IMAGE = 'images/card_front.png'
 BACK_IMAGE = 'images/card_back.png'
 CORRECT_IMAGE = 'images/right.png'
 INCORRECT_IMAGE = 'images/wrong.png'
-RESET_IMAGE = 'images/reset.png'
+RESET_IMAGE = 'images/reset_img.png'
 
 
 class FlashcardApp:
-    def __init__(self, root):
-        self.root = root
+    def __init__(self, window):
+        self.root = window
         self.root.title("Irish to English Flashcards")
         self.root.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
