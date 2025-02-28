@@ -11,7 +11,7 @@ FRONT_IMAGE = 'images/card_front.png'
 BACK_IMAGE = 'images/card_back.png'
 CORRECT_IMAGE = 'images/right.png'
 INCORRECT_IMAGE = 'images/wrong.png'
-RESET_IMAGE = 'images/reset_img.png'
+RESET_IMAGE = 'images/reset.png'
 
 
 class FlashcardApp:
