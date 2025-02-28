@@ -1,4 +1,7 @@
 # Irish to English Flashcard App
+![image](https://github.com/user-attachments/assets/16e70c32-f994-4a7e-b079-28857eb7bf6a)
+![image](https://github.com/user-attachments/assets/5be20994-88c3-480b-a189-1a24447ff114)
+
 
 This is a **Tkinter-based flashcard application** for learning Irish words with their English translations. It randomly displays an Irish word on a flashcard and flips after a few seconds to reveal the English translation. Users can remove words they have learned, keep words they need to review, or reset their progress.
 
